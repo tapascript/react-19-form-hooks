@@ -2,6 +2,8 @@
 
 Learn about this awesome hook to avoid mistakes.
 
+- Check out this video: https://www.youtube.com/watch?v=AXGRPUl_3Ts
+
 ## Run it Locally
 
 - Clone or fork the repo
