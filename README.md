@@ -1,12 +1,10 @@
-# Code in React 19
+# React 19 Form Hooks
 
-As React 19 is new(and still in its RC), this scaffolding project is for everyone who wants to start coding in React 19.
+As React 19 is new(and still in its RC), let us start exploring its features. This source code repository contains code to demonstrate the form hooks included in React 19.
 
 It has:
 
-- Vite
-- React 19.0 RELEASE CANDIDATE(RC)
-- TailwindCSS
+- [The Source Code for useFormStatus](https://github.com/tapascript/react-19-form-hooks/tree/01-use-form-status)
 
 ## Run it Locally
 
